@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA477B6-449B-42E8-9EB8-C8B8FDA3E98D}|LibManagementBLL\\LibManagementBLL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementbll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementBLL\\Class1.cs",
+              "RelativeDocumentMoniker": "LibManagementBLL\\Class1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementBLL\\Class1.cs",
+              "RelativeToolTip": "LibManagementBLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:54:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Class1.cs",
+              "RelativeDocumentMoniker": "LibManagementDAL\\Class1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Class1.cs",
+              "RelativeToolTip": "LibManagementDAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:40:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibManagement\\MainWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml",
+              "RelativeToolTip": "LibManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T05:35:13.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibManagement\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LibManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:35:11.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

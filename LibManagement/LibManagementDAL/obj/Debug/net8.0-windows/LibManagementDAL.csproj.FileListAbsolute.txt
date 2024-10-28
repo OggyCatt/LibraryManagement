@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\bin\Debug\net8.0-windows\LibManagementDAL.deps.json
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\bin\Debug\net8.0-windows\LibManagementDAL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\bin\Debug\net8.0-windows\LibManagementDAL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.AssemblyInfo.cs
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\refint\LibManagementDAL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\ref\LibManagementDAL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\bin\Debug\net8.0-windows\LibManagementDAL.runtimeconfig.json
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementDAL\obj\Debug\net8.0-windows\LibManagementDAL.genruntimeconfig.cache

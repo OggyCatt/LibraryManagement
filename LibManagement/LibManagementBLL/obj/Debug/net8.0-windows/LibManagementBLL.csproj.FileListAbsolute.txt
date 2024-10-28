@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\bin\Debug\net8.0-windows\LibManagementBLL.deps.json
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\bin\Debug\net8.0-windows\LibManagementBLL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\bin\Debug\net8.0-windows\LibManagementBLL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.AssemblyInfo.cs
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\refint\LibManagementBLL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\ref\LibManagementBLL.dll
