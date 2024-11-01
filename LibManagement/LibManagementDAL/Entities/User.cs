@@ -5,17 +5,13 @@ namespace LibManagementDAL.Entities;
 
 public partial class User
 {
-    public int UserId { get; set; }
+    public int UsersId { get; set; }
 
-    public string Username { get; set; } = null!;
+    public string Name { get; set; } = null!;
 
-    public string PasswordHash { get; set; } = null!;
+    public string Phone { get; set; } = null!;
 
-    public string? FullName { get; set; }
+    public string Email { get; set; } = null!;
 
-    public string Role { get; set; } = null!;
-
-    public DateTime? CreatedAt { get; set; }
-
-    public virtual ICollection<BorrowRecord> BorrowRecords { get; set; } = new List<BorrowRecord>();
+    public virtual ICollection<Loan> Loans { get; set; } = new List<Loan>();
 }

@@ -9,28 +9,7 @@
       "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\entities\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA477B6-449B-42E8-9EB8-C8B8FDA3E98D}|LibManagementBLL\\LibManagementBLL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementbll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,9 +29,10 @@
               "RelativeDocumentMoniker": "LibManagement\\LoginWindow.xaml.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml.cs",
               "RelativeToolTip": "LibManagement\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T06:02:51.083Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -61,113 +41,23 @@
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "LibManagement\\LoginWindow.xaml",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml",
-              "RelativeToolTip": "LibManagement\\LoginWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml*",
+              "RelativeToolTip": "LibManagement\\LoginWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-28T05:59:38.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\Entities\\User.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\User.cs",
-              "RelativeToolTip": "LibManagementDAL\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:57:33.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Fee.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\Fee.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\Entities\\Fee.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\Fee.cs",
-              "RelativeToolTip": "LibManagementDAL\\Entities\\Fee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:57:33.027Z",
+              "WhenOpened": "2024-11-01T03:05:24.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BorrowRecord.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\BorrowRecord.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\Entities\\BorrowRecord.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\BorrowRecord.cs",
-              "RelativeToolTip": "LibManagementDAL\\Entities\\BorrowRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:57:32.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Book.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\Entities\\Book.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\Book.cs",
-              "RelativeToolTip": "LibManagementDAL\\Entities\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:57:30.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementBLL\\Class1.cs",
-              "RelativeDocumentMoniker": "LibManagementBLL\\Class1.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementBLL\\Class1.cs",
-              "RelativeToolTip": "LibManagementBLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:54:32.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Class1.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\Class1.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Class1.cs",
-              "RelativeToolTip": "LibManagementDAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:40:24.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "LibManagement\\MainWindow.xaml",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml",
-              "RelativeToolTip": "LibManagement\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-28T05:35:13.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LibManagement\\MainWindow.xaml.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\MainWindow.xaml.cs",
-              "RelativeToolTip": "LibManagement\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:35:11.783Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibManagement\\appsettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\appsettings.json",
+              "RelativeToolTip": "LibManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T02:44:00.503Z",
               "EditorCaption": ""
             }
           ]

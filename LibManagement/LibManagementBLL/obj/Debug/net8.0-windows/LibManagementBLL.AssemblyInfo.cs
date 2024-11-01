@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibManagementBLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6173c618de19962973ad835e7e39ca1736765ae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibManagementBLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibManagementBLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

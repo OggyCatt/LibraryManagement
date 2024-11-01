@@ -5,19 +5,21 @@ namespace LibManagementDAL.Entities;
 
 public partial class Book
 {
-    public int BookId { get; set; }
+    public int BooksId { get; set; }
 
     public string Title { get; set; } = null!;
 
-    public string? Author { get; set; }
+    public string? Description { get; set; }
 
-    public string? Publisher { get; set; }
+    public string Author { get; set; } = null!;
 
-    public int? Year { get; set; }
+    public int? Quantity { get; set; }
 
-    public string? Status { get; set; }
+    public bool IsAvailable { get; set; }
 
-    public DateTime? CreatedAt { get; set; }
+    public int? CategoryId { get; set; }
 
-    public virtual ICollection<BorrowRecord> BorrowRecords { get; set; } = new List<BorrowRecord>();
+    public virtual Category? Category { get; set; }
+
+    public virtual ICollection<Loan> Loans { get; set; } = new List<Loan>();
 }

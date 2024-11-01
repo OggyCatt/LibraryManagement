@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\App.xaml
-11407045341
+3-2082121712
 
-41850058921
+6-552145506
 244-777309285
-MainWindow.xaml;
+BookManagerWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
 
 False
 

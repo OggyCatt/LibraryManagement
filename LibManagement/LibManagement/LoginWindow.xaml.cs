@@ -23,5 +23,17 @@ namespace LibManagement
         {
             InitializeComponent();
         }
+
+        private void QuitButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Goodbye!");
+            this.Close();
+
+        }
+
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

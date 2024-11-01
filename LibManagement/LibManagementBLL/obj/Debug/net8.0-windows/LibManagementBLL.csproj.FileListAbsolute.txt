@@ -5,6 +5,7 @@
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.AssemblyInfoInputs.cache
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.AssemblyInfo.cs
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.sourcelink.json
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.dll
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\refint\LibManagementBLL.dll
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.pdb
