@@ -18,7 +18,7 @@ namespace LibManagement
     /// Interaction logic for LoginWindow.xaml
     /// </summary>
     public partial class LoginWindow : Window
-    {
+    {                                                                                                   
         public LoginWindow()
         {
             InitializeComponent();
@@ -32,6 +32,13 @@ namespace LibManagement
         }
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+            BookManagerWindow mWindow = new BookManagerWindow();
+            mWindow.Show();
+            this.Close();
+        }
+
+        private void EmailAddressTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
 
         }

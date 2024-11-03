@@ -14,13 +14,13 @@
         </Grid.ColumnDefinitions>
         <Rectangle HorizontalAlignment="Left" Height="354" Stroke="Black" VerticalAlignment="Center" Width="574" Fill="#eaae6f" RadiusX="20" RadiusY="20" Margin="39,0,0,0" Grid.Column="2"/>
         <Label Content="Log in" HorizontalAlignment="Left" Height="60" Margin="211,114,0,0" VerticalAlignment="Top" Width="230" FontWeight="ExtraBold" FontSize="40" Foreground="#be2596" HorizontalContentAlignment="Center" Grid.Column="2"/>
-        <Label Content="Username" HorizontalAlignment="Left" Height="36" Margin="68,182,0,0" VerticalAlignment="Top" Width="70" Foreground="#be2596" Grid.Column="2"/>
-        <TextBox x:Name="EmailAddressTextBox" HorizontalAlignment="Left" Height="45" Margin="180,179,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="374" TabIndex="0" Grid.Column="2"/>
+        <Label Content="Email" HorizontalAlignment="Left" Height="36" Margin="68,182,0,0" VerticalAlignment="Top" Width="70" Foreground="#be2596" Grid.Column="2" FontWeight="Bold"/>
+        <TextBox x:Name="EmailAddressTextBox" HorizontalAlignment="Left" Height="45" Margin="180,179,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="374" TabIndex="0" Grid.Column="2" FontWeight="Bold" TextChanged="EmailAddressTextBox_TextChanged"/>
         <Label Content="Password" HorizontalAlignment="Left" Height="45" Margin="68,251,0,0" VerticalAlignment="Top" Width="107" Foreground="#be2596" Grid.Column="2"/>
         <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Height="45" TextWrapping="Wrap"  VerticalAlignment="Top" Width="374" TabIndex="1" Grid.Column="2" Margin="180,249,0,0"/>
-        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Height="55" Margin="68,339,0,0" VerticalAlignment="Top" Width="230" TabIndex="2"  Grid.Column="2" Click="LoginButton_Click"/>
-        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="55" Margin="324,339,0,0" VerticalAlignment="Top" Width="230" TabIndex="3"  Grid.Column="2"  Click="QuitButton_Click"/>
-        <Label Content="" HorizontalAlignment="Left" Height="45" Margin="223,448,0,0" VerticalAlignment="Top" Width="182" Foreground="#96be25" Grid.Column="2"/>
+        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Left" Height="55" Margin="68,339,0,0" VerticalAlignment="Top" Width="230" TabIndex="2"  Grid.Column="2" Click="LoginButton_Click" Background="DarkGreen"/>
+        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="55" Margin="324,339,0,0" VerticalAlignment="Top" Width="230" TabIndex="3"  Grid.Column="2"  Click="QuitButton_Click" Background="PaleVioletRed"/>
+        <Label Content="" HorizontalAlignment="Left" Height="45" Margin="223,448,0,0" VerticalAlignment="Top" Width="182" Foreground="Yellow" Grid.Column="2"/>
 
     </Grid>
 </Window>

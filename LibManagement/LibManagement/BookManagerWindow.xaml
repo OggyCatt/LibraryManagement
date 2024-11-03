@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LibManagement"
         mc:Ignorable="d"
-        Title="BookManagerWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="Book Management" Height="450" Width="800" Background="Aqua" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="0,398,0,0">
+        <DataGrid HorizontalAlignment="Left" Height="230" Margin="46,-252,0,0" VerticalAlignment="Top" Width="550" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <!--Ta đang định nghĩa table với cột và độ rông với tên gọi theo ý của ta -->
+                <DataGridTextColumn Header="ID" Width="40" Binding="{Binding BooksID}"/>
+                <DataGridTextColumn Header="Name" Width="70" Binding="{Binding Title}"/>
+                <DataGridTextColumn Header="Description" Width="150" Binding="{Binding Description}"/>
+                <DataGridTextColumn Header="Author" Width="70" Binding="{Binding Author}"/>
+                <DataGridTextColumn Header="Quantity" Width="60" Binding="{Binding Quantity}"/>
+                <DataGridTextColumn Header="CategoryID" Width="70" Binding="{Binding CategoryID}"/>
+                <DataGridTextColumn Header="CategryName" Binding="{Binding CategoryName}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>

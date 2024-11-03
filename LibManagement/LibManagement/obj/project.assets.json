@@ -1686,6 +1686,41 @@
             "rid": "win"
           }
         }
+      },
+      "LibManagementBLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LibManagementDAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibManagementBLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibManagementBLL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "LibManagementDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
+          "Microsoft.Extensions.Configuration": "8.0.0",
+          "Microsoft.Extensions.Configuration.Json": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/LibManagementDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibManagementDAL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -4464,10 +4499,21 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "LibManagementBLL/1.0.0": {
+      "type": "project",
+      "path": "../LibManagementBLL/LibManagementBLL.csproj",
+      "msbuildProject": "../LibManagementBLL/LibManagementBLL.csproj"
+    },
+    "LibManagementDAL/1.0.0": {
+      "type": "project",
+      "path": "../LibManagementDAL/LibManagementDAL.csproj",
+      "msbuildProject": "../LibManagementDAL/LibManagementDAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "LibManagementBLL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
@@ -4477,19 +4523,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tuandat\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LibManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LibManagement.csproj",
       "projectName": "LibManagement",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LibManagement.csproj",
-      "packagesPath": "C:\\Users\\tuandat\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LibManagement.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tuandat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4503,7 +4549,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagementBLL\\LibManagementBLL.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagementBLL\\LibManagementBLL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4569,8 +4619,16 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
