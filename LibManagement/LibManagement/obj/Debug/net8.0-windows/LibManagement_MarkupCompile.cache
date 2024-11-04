@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\
 LibManagement
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagement\App.xaml
-3-2082121712
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\App.xaml
+3-806674772
 
-6-552145506
-246-530112747
-BookManagerWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+6-1161354943
+24685280669
+BookManagerWindow.xaml;DetailWindow.xaml;LoginWindow.xaml;
 
 False
 

@@ -26,3 +26,7 @@ C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagementBLL\
 C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\refint\LibManagementBLL.dll
 C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.pdb
 C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\ref\LibManagementBLL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\bin\Debug\net8.0-windows\LibManagementDAL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\bin\Debug\net8.0-windows\LibManagementDAL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManagementBLL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagementBLL\obj\Debug\net8.0-windows\LibManag.6872DAC1.Up2Date

@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using LibManagementDAL.Entities;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 
 namespace LibManagementDAL;
 
@@ -29,25 +27,14 @@ public partial class LibManagementContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseSqlServer(GetConnectionString());
-    }
-    private string GetConnectionString()
-    {
-        IConfiguration config = new ConfigurationBuilder()
-             .SetBasePath(Directory.GetCurrentDirectory())
-                    .AddJsonFile("appsettings.json", true, true)
-                    .Build();
-        var strConn = config["ConnectionStrings:DefaultConnectionStringDB"];
-
-        return strConn;
-    }
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+        => optionsBuilder.UseSqlServer("Server=(local);uid=sa;pwd=12345;database=LibManagement;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Book>(entity =>
         {
-            entity.HasKey(e => e.BooksId).HasName("PK__Books__E7C520EE0056E47B");
+            entity.HasKey(e => e.BooksId).HasName("PK__Books__E7C520EEEDC7E335");
 
             entity.Property(e => e.Author).HasMaxLength(100);
             entity.Property(e => e.Description).HasColumnType("text");
@@ -61,14 +48,14 @@ public partial class LibManagementContext : DbContext
 
         modelBuilder.Entity<Category>(entity =>
         {
-            entity.HasKey(e => e.CategoryId).HasName("PK__Categori__19093A0BCB71A891");
+            entity.HasKey(e => e.CategoryId).HasName("PK__Categori__19093A0B78965BFF");
 
             entity.Property(e => e.Name).HasMaxLength(100);
         });
 
         modelBuilder.Entity<Loan>(entity =>
         {
-            entity.HasKey(e => e.LoansId).HasName("PK__Loans__CF866FDFCF66FB95");
+            entity.HasKey(e => e.LoansId).HasName("PK__Loans__CF866FDFE0EC69D7");
 
             entity.Property(e => e.LoanDate).HasColumnType("datetime");
             entity.Property(e => e.ReturnDate).HasColumnType("datetime");
@@ -88,9 +75,9 @@ public partial class LibManagementContext : DbContext
 
         modelBuilder.Entity<Manager>(entity =>
         {
-            entity.HasKey(e => e.ManagerId).HasName("PK__Managers__3BA2AAE1EA144CD7");
+            entity.HasKey(e => e.ManagerId).HasName("PK__Managers__3BA2AAE19A8EAAC0");
 
-            entity.HasIndex(e => e.Email, "UQ__Managers__A9D10534B499AEC8").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Managers__A9D1053455B001A3").IsUnique();
 
             entity.Property(e => e.Email).HasMaxLength(100);
             entity.Property(e => e.Name).HasMaxLength(100);
@@ -99,9 +86,9 @@ public partial class LibManagementContext : DbContext
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.UsersId).HasName("PK__Users__A349B062E45BEE90");
+            entity.HasKey(e => e.UsersId).HasName("PK__Users__A349B062B0F14FC3");
 
-            entity.HasIndex(e => e.Email, "UQ__Users__A9D10534A59BDBC4").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__Users__A9D105345B78466C").IsUnique();
 
             entity.Property(e => e.Email).HasMaxLength(100);
             entity.Property(e => e.Name).HasMaxLength(100);

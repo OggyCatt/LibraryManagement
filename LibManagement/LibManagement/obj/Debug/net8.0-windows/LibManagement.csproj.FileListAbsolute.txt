@@ -1,6 +1,5 @@
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement.csproj.AssemblyReference.cache
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\BookManagerWindow.g.cs
-\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\App.g.cs
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement_MarkupCompile.cache
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement_MarkupCompile.lref
@@ -130,7 +129,6 @@
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\BookManagerWindow.baml
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LoginWindow.baml
-\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\MainWindow.baml
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement.g.resources
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement.GeneratedMSBuildEditorConfig.editorconfig
 \\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement.AssemblyInfoInputs.cache
@@ -293,3 +291,11 @@ C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagement\obj
 C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement.pdb
 C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\LibManagement.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\ref\LibManagement.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\bin\Debug\net8.0-windows\appsettings.json
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\bin\Debug\net8.0-windows\LibManagementBLL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\bin\Debug\net8.0-windows\LibManagementDAL.dll
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\bin\Debug\net8.0-windows\LibManagementBLL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\bin\Debug\net8.0-windows\LibManagementDAL.pdb
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\App.baml
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\DetailWindow.g.cs
+\\Mac\Home\Desktop\LibraryManagement\LibManagement\LibManagement\obj\Debug\net8.0-windows\DetailWindow.baml

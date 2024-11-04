@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\",
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|c:\\users\\administrator\\desktop\\librarymanagement\\libmanagement\\libmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|solutionrelative:libmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\bookmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|c:\\users\\administrator\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\libmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|solutionrelative:libmanagementdal\\libmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\bookmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|c:\\users\\administrator\\desktop\\librarymanagement\\libmanagement\\libmanagementdal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBCB3F6-88C5-4F62-AA62-6CBA9893DB69}|LibManagementDAL\\LibManagementDAL.csproj|solutionrelative:libmanagementdal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|c:\\users\\administrator\\desktop\\librarymanagement\\libmanagement\\libmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|solutionrelative:libmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C43A7CB-58F8-461E-A44A-B7A7245AE74E}|LibManagement\\LibManagement.csproj|\\\\mac\\home\\desktop\\librarymanagement\\libmanagement\\libmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "LibManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\appsettings.json",
-              "RelativeToolTip": "LibManagement\\appsettings.json",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LibManagement\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-03T07:24:49.059Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:10:43.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\App.xaml",
+              "RelativeDocumentMoniker": "LibManagement\\App.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\App.xaml",
+              "RelativeToolTip": "LibManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T06:05:24.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LibManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\LibManagementContext.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\LibManagementContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\LibManagementContext.cs",
-              "RelativeToolTip": "LibManagementDAL\\LibManagementContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAXAAAAAAAAAA==",
+              "Title": "BookManagerWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\BookManagerWindow.xaml",
+              "RelativeDocumentMoniker": "LibManagement\\BookManagerWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\BookManagerWindow.xaml",
+              "RelativeToolTip": "LibManagement\\BookManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T05:40:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagerWindow.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\BookManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibManagement\\BookManagerWindow.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\BookManagerWindow.xaml.cs",
+              "RelativeToolTip": "LibManagement\\BookManagerWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T07:22:27.509Z"
+              "WhenOpened": "2024-11-04T05:43:55.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\App.xaml.cs",
-              "RelativeDocumentMoniker": "LibManagement\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\App.xaml.cs",
-              "RelativeToolTip": "LibManagement\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T06:38:08.385Z"
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LibManagement\\LoginWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "LibManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T06:10:47.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "LibManagementDAL\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LibraryManagement\\LibManagement\\LibManagementDAL\\Entities\\Book.cs",
-              "RelativeToolTip": "LibManagementDAL\\Entities\\Book.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAeAAAAAAAAAA==",
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "LibManagement\\DetailWindow.xaml",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\DetailWindow.xaml",
+              "RelativeToolTip": "LibManagement\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T06:18:56.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibManagement\\appsettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\appsettings.json",
+              "RelativeToolTip": "LibManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T07:24:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LibManagement\\App.xaml.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\LibraryManagement\\LibManagement\\LibManagement\\App.xaml.cs",
+              "RelativeToolTip": "LibManagement\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T06:49:30.809Z"
+              "WhenOpened": "2024-11-03T06:38:08.385Z"
             }
           ]
         }
